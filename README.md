@@ -1,2 +1,2 @@
 # programming-DA
-notebooks for programming in Data Analyiss module 
+notebooks for programming in Data Analysis module 
