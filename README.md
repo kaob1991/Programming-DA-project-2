@@ -1,5 +1,6 @@
-Programming for Data Analysis (52465)
-Katie O'Brien (G00398250)
+# Programming for Data Analysis (52465)
+## Katie O'Brien (G00398250)<br>
+
 Practical Assignment submitted as partial fulfillment for Programming in Data Analysis module 
 
 This repository contains a Jupyter Notebook and this readme file. It also contains a requirements.txt file which should not be deleted or modified as it contains configuration files for Binder to run properly.
