@@ -1,0 +1,7 @@
+install matplotlib.pyplot as plt
+install numpy as np 
+install pandas as pd 
+install seaborn as sns
+from scipy.stats import chi2
+from numpy.random import Generator, PCG64
+from numpy.random import default_rng
