@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook and this readme file. It also contai
 ***
 
 ## System Requirements
-In order to view the notebook on a local machine requires the latest version of Python. It is available at the following [link](https://www.anaconda.com/products/individual)  for Windows, LInux and Mac. 
+In order to view the notebook on a local machine you will require the latest version of Python. It is available at the following [link](https://www.anaconda.com/products/individual)  for Windows, LInux and Mac. 
 
 
 Alternatively, the notebook can be viewed in 2 remote ways: 
